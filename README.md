@@ -1,7 +1,10 @@
 ##Topic: Sentiment Analysis for Movie data using BERT (Bidirectional Encoder
 Representation from Transformer)
+
+
+
 #Project Description:
-Introduction:
+#Introduction:
 This project aims to develop a sentiment analysis system to assess movie reviews
 using BERT, one of the most advanced language models for natural language
 processing. The goal is to classify movie reviews as positive, negative, or neutral,
